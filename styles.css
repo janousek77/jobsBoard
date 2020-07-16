@@ -1,0 +1,8 @@
+#job-cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  margin-left: 20px;
+}
